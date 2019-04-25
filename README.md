@@ -6,8 +6,7 @@ homework-14
 
 This project illustrates scraping the Medium website for the latest article headline, summary, and url.
 
-http://github.com - automatic!
-[Scraper](https://medium-culture-scraper.herokuapp.com/http://github.com)
+[Scraper Demo](https://medium-culture-scraper.herokuapp.com/http://github.com)
 
 ## Why the project is useful
 
